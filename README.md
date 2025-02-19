@@ -24,7 +24,7 @@
 * [ ] 选课名单
 
 ## 如何开始
-1. 使用pip命令安装 `pip install zfnew`
+1. 使用pip命令安装 `set PYTHONUTF8=1` & `pip install zfnew`
 
 2. 在[Pypi](https://pypi.org/project/zfnew/#files)下载包文件，然后
 
